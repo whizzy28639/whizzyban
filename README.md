@@ -14,7 +14,7 @@ git clone https://github.com/whizzy28639/whizzyban.git
 
 cd killnet 
 
-bash killnet.sh
+bash whizzyban.sh
 ##
 end of use
 ##
