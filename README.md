@@ -12,7 +12,7 @@ pkg install git -y
 
 git clone https://github.com/whizzy28639/whizzyban.git
 
-cd killnet 
+cd whizzyban
 
 bash whizzyban.sh
 ##
