@@ -2,11 +2,11 @@
 whizzyban is a tool made in bash and Python to spam and WhatsApp numbers.
 
 
-✅ 1. Run it from anywhere (global install)
+### ✅ 1. Run it from anywhere (global install)
 
-
+```python
 apt update -y
-
+```
 apt upgrade -y
 
 pkg install git -y
